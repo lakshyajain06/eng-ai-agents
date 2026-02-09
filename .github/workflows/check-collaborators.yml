@@ -31,7 +31,7 @@ jobs:
           RESET = '\033[0m'
 
           # List of GitHub users to check
-          users_to_check = ['+++++++' ]  # !!!!!!!!!!!!! REPLACE ++++++ WITH THE GITHUB IDs OF YOUR TAs FOR THE SPECIFIC CLASS/SECTION !!!!!!!!!!!!!!
+          users_to_check = ['kushagrayadv', 'lord-fourth0107']  # !!!!!!!!!!!!! REPLACE ++++++ WITH THE GITHUB IDs OF YOUR TAs FOR THE SPECIFIC CLASS/SECTION !!!!!!!!!!!!!!
 
           action_result = 0
 
